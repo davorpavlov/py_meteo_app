@@ -1,0 +1,5 @@
+Mislim da smo već razgovarali oko korištenja SQL i SQL Alchemy tako da ću taj dio preskočiti. 
+Imam samo jedan savjet, kada imate puno parametara u funkciji, onda to lijepo možete u jednu klasu i predate objet te klase u kojem su svi ti podaci. 
+Manje koda, lakše održavati, ako trebate dodati neki parametar samo dodate svojstvo u klasi i to je to ... puno praktičnije.
+
+Ostalo, nemam što dodati. Samo nastavite tako.
